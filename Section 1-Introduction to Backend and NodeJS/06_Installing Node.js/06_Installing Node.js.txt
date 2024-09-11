@@ -1,0 +1,6 @@
+Installing Node.js
+
+//3 way to debug
+run with vs code
+run with node index.js
+run with node --watch index.js

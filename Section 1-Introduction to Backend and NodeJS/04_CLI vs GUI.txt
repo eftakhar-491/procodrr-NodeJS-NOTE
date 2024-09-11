@@ -1,0 +1,5 @@
+CLI--> commend line interface
+GUI--> grafical user interface
+
+
+// we can download using CMD -->(app name) --> yt-dlp
