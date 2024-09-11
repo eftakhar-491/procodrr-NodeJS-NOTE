@@ -1,0 +1,6 @@
+Basic Shell Commands -->
+echo - > [print] **>        echo hello world ,|| echo $num ,|| echo $(num1+num2)
+
+pwd - > [print current location(file path)]        pwd
+
+whoami - > [pc te je profile name deoa thake ta return kore]

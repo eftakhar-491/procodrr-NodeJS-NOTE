@@ -1,0 +1,4 @@
+Navigating the File System (cd)
+
+cd ../           [back to parent folder]
+cd ../file or folder name 

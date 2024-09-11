@@ -1,0 +1,7 @@
+Listing Directory Contents (ls)
+
+ls - > [akta folder a joto item asy ta dekhai]
+
+ls -a [list all -- > sob file folder dekhai hidden soho]
+
+ls -la [file permission(next section)]

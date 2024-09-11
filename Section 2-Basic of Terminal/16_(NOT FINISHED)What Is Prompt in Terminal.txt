@@ -1,0 +1,2 @@
+What Is Prompt in Terminal -->
+prompt 

@@ -1,0 +1,7 @@
+Viewing and Editing Files with Commands (cat, nano, vim)
+
+cat -> [show full content in this file]
+
+neno - > [its a editor]    neno app.js
+
+vim - > [its a editor]     vim app.js {esc , :w (save) , :q(exit)  } ,{esc , :wq (save & quit)}

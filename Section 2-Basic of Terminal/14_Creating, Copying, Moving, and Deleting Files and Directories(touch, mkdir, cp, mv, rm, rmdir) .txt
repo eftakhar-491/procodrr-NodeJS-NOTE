@@ -1,0 +1,29 @@
+touch - > [create file]
+
+mkdir - > [create folder] 
+
+cp - > [copy]    cp app.js src
+
+mv - > [move file , rename] mv app.js src , rm app.js server.js 
+
+rm - > [delete any file] rm file name
+
+rmdir - > [remove faka folder] 
+
+rm -r src - > [remove folder]
+
+**********************************
+
+// create 1000 file using loop
+
+for i in {1..100};do touch "app$i.js";done
+
+
+
+
+
+
+
+
+
+
