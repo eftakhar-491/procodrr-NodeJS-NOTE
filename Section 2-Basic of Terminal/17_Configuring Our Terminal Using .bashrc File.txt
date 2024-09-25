@@ -1,0 +1,10 @@
+echo $PS1
+\[\033]0;$TITLEPREFIX:$PWD\007\]\n\[\033[32m\]\u@\h \[\033[35m\]$MSYSTEM \[\033[33m\]\w\[\033[36m\]`__git_ps1`\[\033[0m\]\n$
+
+
+PS1=[uporer moto dile mood change hya jabe] chat gpt help nia korte hobe
+
+PS1 jodi permanent korte chao tyle .bashrc name folder a PS1 k update korte hobe.. tahole sob somoy path temoni dekhabe
+
+***************************************
+cmd ar path edit korte PS1 variable a je kono uporer moto akta path dile ta show korbe...
