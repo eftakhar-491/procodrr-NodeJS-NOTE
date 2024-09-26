@@ -1,0 +1,5 @@
+node
+
+os.availableParallelism()  [ai function dia processor a koyta logical core asy seta dekha jai]
+
+
