@@ -1,0 +1,9 @@
+node js a -->
+
+
+module.exports = function Name
+
+and then we can import->
+
+const variable = require("./sum")
+require("./sum") default return empty obj

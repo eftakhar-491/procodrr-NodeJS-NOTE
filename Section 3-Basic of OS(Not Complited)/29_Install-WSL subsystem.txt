@@ -1,0 +1,3 @@
+install wsl
+path system sikbo
+mnt file a windos thake

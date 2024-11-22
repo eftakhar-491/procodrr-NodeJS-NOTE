@@ -1,0 +1,6 @@
+module obj .....
+local ar modde thake
+--> module->
+-> exports
+-> children [aitar vitore arekta mobule thake]
+-> exports
