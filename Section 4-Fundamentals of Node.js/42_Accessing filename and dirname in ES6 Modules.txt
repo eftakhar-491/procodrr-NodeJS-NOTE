@@ -1,0 +1,6 @@
+Accessing filename and dirname in ES6 Modules
+
+(import.meta) -> purata akta jinis
+
+process.cwd()
+process.chdir('./src')

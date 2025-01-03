@@ -1,0 +1,5 @@
+module system-->
+common js default thake,
+ES6 module -> type:module korte hoy
+
+export, 

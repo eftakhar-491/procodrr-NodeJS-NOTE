@@ -1,0 +1,5 @@
+Introduction to FS Module
+
+import fs from "fs/promise"
+
+fs.readFile

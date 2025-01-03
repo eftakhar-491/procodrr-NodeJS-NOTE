@@ -1,0 +1,6 @@
+//native module
+import fs from "fs"
+//user module
+import {timer} from "../assets/pic"
+//NPM module
+import axios from 'axios'

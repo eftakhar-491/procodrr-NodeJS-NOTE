@@ -1,0 +1,6 @@
+npx searching steps...
+
+1-> find local file (package.json) in current directiry
+    1.1->
+
+-ses hoy nai...

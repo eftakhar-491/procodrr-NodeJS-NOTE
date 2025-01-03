@@ -1,0 +1,3 @@
+Difference Between Common.js and ES6 Modules
+- > comonJs synchronous
+- > ES6 Asynchronous

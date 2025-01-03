@@ -1,0 +1,6 @@
+create a project
+create a account on npm
+
+npm login
+
+npm publish

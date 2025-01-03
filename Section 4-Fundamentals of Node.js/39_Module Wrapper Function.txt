@@ -1,0 +1,4 @@
+((exports, require, module , __filename, dirname){
+    // amra je code likhi seta ai jagai ase,,,
+    // kono akta function k wrap kora hoy ty aita local a jai je konoo variable
+})(exports, require, module , __filename, dirname)
